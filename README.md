@@ -1,0 +1,1 @@
+Power + audio mute manager
