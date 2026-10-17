@@ -13,7 +13,7 @@
  *    PD0  Serial RX     -> debug (USB/UART)
  *    PD1  Serial TX     -> debug (USB/UART)
  * ------------------------------------------------------------------ */
-
+#include <Arduino.h>
 #include <SoftwareSerial.h>
 
 // ==================================================================
