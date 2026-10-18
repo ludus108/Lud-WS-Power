@@ -44,3 +44,4 @@ Thumbs.db
 # FILE DI CONFIGURAZIONE LOCALE
 # ==========================
 # (aggiungi qui eventuali file con path assoluti personali)
+/.vscode
